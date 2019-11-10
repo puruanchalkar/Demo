@@ -1,4 +1,4 @@
-new demo file
+new demo file (master)
 second line added
 changes in master branch
 to demo1 branch
